@@ -21,7 +21,9 @@ This repository includes various cybersecurity tools, including but not limited 
 - **SQL Injection Scanner**
   - A simple Python application that detects SQL injection vulnerabilities in web applications.
   
-*(You can list other tools here as you add them to the repository.)*
+- **XSS Injection Scanner**
+  - A simple Python application that detects XSS injection vulnerabilities in web applications.
+  
 
 ## Getting Started
 
