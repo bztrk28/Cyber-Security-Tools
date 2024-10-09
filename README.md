@@ -20,9 +20,11 @@ This repository includes various cybersecurity tools, including but not limited 
 
 - **SQL Injection Scanner**
   - A simple Python application that detects SQL injection vulnerabilities in web applications.
+  - My recommended payload list that you can use in the tool: https://github.com/payloadbox/sql-injection-payload-list
   
 - **XSS Injection Scanner**
   - A simple Python application that detects XSS injection vulnerabilities in web applications.
+  - My recommended payload list that you can use in the tool: https://github.com/payloadbox/xss-payload-list
   
 
 ## Getting Started
